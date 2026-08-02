@@ -311,20 +311,22 @@ img { display: block; width: 100%; }
   display: block;
   object-fit: cover;
   object-position: center 52%;
-  background: #fff;
-  border: 1px solid rgba(255, 255, 255, 0.28);
+  background: transparent;
+  border: 0;
+  filter: invert(1);
+  mix-blend-mode: screen;
 }
 
 .brand-logo {
   width: clamp(126px, 12vw, 154px);
   height: 44px;
-  border-radius: 4px;
+  border-radius: 0;
 }
 
 .footer-logo {
   width: 168px;
   height: 50px;
-  border-radius: 4px;
+  border-radius: 0;
 }
 
 @media (max-width: 720px) {
