@@ -141,11 +141,11 @@ function App() {
     <div className="site-shell">
       <header className="site-header">
         <a className="brand" href="#top" aria-label="FLAW ana sayfa">
-          <span className="brand-symbol">F</span>
-          <span className="brand-copy">
-            <strong>FLAW</strong>
-            <small>HAİR REPAİR STUDİO</small>
-          </span>
+          <img
+            className="brand-logo"
+            src="/generated/flaw-hair/images/flaw-official-logo.jpg"
+            alt="FLAW Hair Repair Studio"
+          />
         </a>
 
         <nav className="desktop-nav" aria-label="Ana menü">
@@ -436,8 +436,11 @@ function App() {
 
       <footer className="site-footer">
         <div className="footer-brand">
-          <span className="brand-symbol">F</span>
-          <div><strong>FLAW</strong><small>HAİR REPAİR STUDİO</small></div>
+          <img
+            className="footer-logo"
+            src="/generated/flaw-hair/images/flaw-official-logo.jpg"
+            alt="FLAW Hair Repair Studio"
+          />
         </div>
         <div className="footer-links">
           <a href="#services">Hizmetler</a>
