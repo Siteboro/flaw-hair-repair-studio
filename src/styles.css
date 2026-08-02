@@ -290,3 +290,9 @@ img { display: block; width: 100%; }
   .reveal, .hero-enter { opacity: 1; transform: none; }
   .hero-media img { transform: none; }
 }
+
+/* White accent direction requested for the production preview. */
+:root {
+  --acid: #ffffff;
+  --acid-deep: #ffffff;
+}
