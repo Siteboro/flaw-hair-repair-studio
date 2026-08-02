@@ -296,3 +296,12 @@ img { display: block; width: 100%; }
   --acid: #ffffff;
   --acid-deep: #ffffff;
 }
+
+.buy-pill,
+.buy-pill:hover,
+.buy-pill:focus-visible {
+  background: rgba(255, 255, 255, 0.96);
+  color: var(--ink);
+  border-color: rgba(255, 255, 255, 0.72);
+  box-shadow: 0 14px 42px rgba(0, 0, 0, 0.28);
+}
