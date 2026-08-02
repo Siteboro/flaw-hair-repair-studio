@@ -143,7 +143,7 @@ function App() {
         <a className="brand" href="#top" aria-label="FLAW ana sayfa">
           <img
             className="brand-logo"
-            src="/generated/flaw-hair/images/flaw-official-logo.jpg"
+            src="/generated/flaw-hair/images/flaw-official-logo-white.svg"
             alt="FLAW Hair Repair Studio"
           />
         </a>
@@ -438,7 +438,7 @@ function App() {
         <div className="footer-brand">
           <img
             className="footer-logo"
-            src="/generated/flaw-hair/images/flaw-official-logo.jpg"
+            src="/generated/flaw-hair/images/flaw-official-logo-white.svg"
             alt="FLAW Hair Repair Studio"
           />
         </div>

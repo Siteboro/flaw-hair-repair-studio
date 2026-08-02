@@ -313,8 +313,8 @@ img { display: block; width: 100%; }
   object-position: center 52%;
   background: transparent;
   border: 0;
-  filter: invert(1);
-  mix-blend-mode: screen;
+  filter: none;
+  mix-blend-mode: normal;
 }
 
 .brand-logo {
@@ -334,4 +334,12 @@ img { display: block; width: 100%; }
     width: 124px;
     height: 40px;
   }
+}
+
+.site-header {
+  background: #050505;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.22);
 }
