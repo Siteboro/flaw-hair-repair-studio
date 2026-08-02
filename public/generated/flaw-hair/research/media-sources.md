@@ -1,0 +1,10 @@
+# Media Sources
+
+All four production images were downloaded from the public Google Maps photo gallery for FLAW HAİR REPAİR STUDİO and optimized locally for fast delivery.
+
+1. Salon entry/interior: Google Maps photo asset `AHRPTWn4xWTnpr4iq6tnUfOMi10JGCBXGGYsNCsxJijwbU5NWFMJw11DhTJARCNBexyTCBcPpEUIUfd5fkMLQE_xIZSatIdJFzlKt1wIYCUjhwwCZdWop53B2JW9nEWMQobLqlff-KVtGgrOkabE`
+2. Glass-front interior: Google Maps photo asset `AHRPTWnWcT8njavTVvCUCzY94A61gDhTvJCKELo0oVDmT1YpuIRSbepRIi5mSICXTipTwSi7KGUrjbA3rqL9w9QNtnxX3eqnDWhbHVIODAdMN3v3jhJUm9KzYtaTBEVHnKZuteF_gfb-QJH3oZW-`
+3. Professional products: Google Maps photo asset `AHRPTWnOOZ9oJG_tQ3pkECfWWjX1qvUIXbP-BGvk2NSz6_G6aQNukDBgLXPBA3l36hN7zFXAl04ZKugnEie7kVAGPID05kuxRCh66Gw06ecwg2GgaocA1ldgpZ_NMz9xpmJ2NqfzxqLHJbkSpc9v`
+4. Storefront: Google Maps photo asset `AHRPTWld0_8mlI2U6jJhp5nFa6Pw_5oaRYd6_ZFbpC8YujrFqSuHvRC1NT1q3I1pPoy4AXeVkTLUpg8pbqXcJ1QEDWT8DzOte4sTpPt3jx2HIj-CTANPucdHz2V7X30Sl9_SPOXQaJ_bPvsKyzLR`
+
+The page labels these as real listing photos. No stock or synthetic customer-result images are used.
